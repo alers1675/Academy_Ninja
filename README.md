@@ -1,1 +1,1 @@
-# Ninja_man
+# Academy_Ninja
